@@ -1,0 +1,73 @@
+VER 3 000000000000000F "마나석" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 마나 사파이어
+/use 무한의 마나 물약
+END
+VER 3 0000000000000001 "법봉" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence 마법봉 발사
+END
+VER 3 000000000000000E "불기둥" "INV_MISC_QUESTIONMARK"
+#showtooltip 불기둥
+/cast 냉정
+/cast !불기둥
+END
+VER 3 000000000000000A "빵" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 창조된 빙하수
+/use 창조된 크루아상
+END
+VER 3 000000000000000C "생석" "INV_MISC_QUESTIONMARK"
+#showtooltip 지옥 생명석
+/stopcasting
+/use 지옥 생명석
+END
+VER 3 0000000000000006 "시먹" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast !시체먹기
+END
+VER 3 000000000000000D "신마강" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [nomod] 신비의 마법 강화
+/cast [mod:shift] 신비한 총명함
+/cast [mod:alt] 저주 해제
+END
+VER 3 0000000000000009 "에러" "INV_MISC_QUESTIONMARK"
+#showtooltip Kill Command
+/console Sound_EnableErrorSpeech 0
+/cast [harm] Kill Command
+/targetenemy [noharm][dead][noexists]
+/use 14
+/script UIErrorsFrame:Clear()
+/run C_Timer.After(0.1, function() SetCVar("Sound_EnableErrorSpeech", 1) end)
+END
+VER 3 0000000000000007 "장신구1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/use 13
+END
+VER 3 0000000000000008 "장신구2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/use 14
+END
+VER 3 000000000000000B "저속낙하" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [nomod][@player] 저속 낙하
+/cast [mod:shift] 저속 낙하
+ 
+END
+VER 3 0000000000000004 "펫공격" "132138"
+#showtooltip
+/petattack
+END
+VER 3 0000000000000003 "펫따르기" "132866"
+#showtooltip
+/petfollow
+END
+VER 3 0000000000000005 "펫중지" "132349"
+#showtooltip
+/petstay
+END

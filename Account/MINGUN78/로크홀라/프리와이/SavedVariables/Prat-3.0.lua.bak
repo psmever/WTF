@@ -1,0 +1,2653 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 27,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Hfeel:4443:CHANNEL:4|h[|cff0070ddHfeel|r]|h: 아졸 감마 후딲 갔다오실분 일퀘~~ 탱/딜 (법사 흑마 있음)",
+					["serverTime"] = 1697726440,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						68, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484211.721,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [1]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:활무-로크홀라:4444:CHANNEL:4|h[|cff3fc6ea활무|r]|h: 아카본 25인 토라본 주특입 1직 탱(야탱풀)회드수사 모십니다.(기코 5300이상만)",
+					["serverTime"] = 1697726441,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						47, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484212.454,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [2]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:루팡성님:4445:CHANNEL:4|h[|cfffff468루팡성님|r]|h: 제련소 감마 숙제 ( 4800+) 가실분 ( 탱  힐  원딜 ) 모셔요,,,초대없음풀요",
+					["serverTime"] = 1697726443,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						69, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484214.321,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [3]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:술사님윤회요-로크홀라:4446:CHANNEL:4|h[|cff0070dd술사님윤회요|r]|h: 아카본 25인 토라본만 주특입 퓨1직 하2~3가실 /회드/ 모십니다 회드 1 모십니다~~",
+					["serverTime"] = 1697726444,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						10, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484215.121,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [4]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:나이트임-로크홀라:4447:CHANNEL:4|h[|cfff48cba나이트임|r]|h: 붉인십자군 수도원 저렙던전 딜2 모셔요",
+					["serverTime"] = 1697726448,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						6, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484219.587,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [5]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:토끼없어요-로크홀라:4448:CHANNEL:4|h[|cffc69b6d토끼없어요|r]|h: >>가시넝쿨구릉<< 가실분 모셔요 36~45 (3/5)",
+					["serverTime"] = 1697726451,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						26, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484222.087,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [6]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:플아-로크홀라:4449:CHANNEL:4|h[|cfff48cba플아|r]|h: 아카본 10인 전탱모십니다",
+					["serverTime"] = 1697726451,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						22, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484222.987,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [7]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Penta-로크홀라:4450:CHANNEL:4|h[|cffaad372Penta|r]|h: 아카본 25인 주특입 퓨1 하2~3 탱딜<고술,조드> 힐<복술,회드,> 주특입",
+					["serverTime"] = 1697726452,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						36, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484223.221,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [8]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:킹도하:4451:CHANNEL:4|h[|cfff48cba킹도하|r]|h: 10인 전사,죽기,수사,냥꾼,복술 구합니다",
+					["serverTime"] = 1697726454,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						70, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484225.754,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [9]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:킴달수-로크홀라:4452:CHANNEL:4|h[|cfff48cba킴달수|r]|h: 아카본 25인<<토라 직>> 퓨어1직 하이브2~3직 주특입==전탱or죽탱, 고술,  복술==모십니다(귓답x)",
+					["serverTime"] = 1697726459,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						3, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484231.004,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [10]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:옻옻-로크홀라:4453:CHANNEL:4|h[|cffc69b6d옻옻|r]|h: [등떠밀]  얼왕25H / 토일 21:00 4탐 / 보기,야딜(탱솹),부죽or고흑, 복술 / 6하드",
+					["serverTime"] = 1697726466,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						40, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484237.787,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [11]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:벗겨진가발-로크홀라:4454:CHANNEL:4|h[|cffffffff벗겨진가발|r]|h: 와린이임미다 가방이 없어서 힘드러요",
+					["serverTime"] = 1697726472,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						71, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484243.471,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [12]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:까칠한감:4455:CHANNEL:4|h[|cfff48cba까칠한감|r]|h: 아카본10 토라본 50+ 전.죽.냥.흑.드.도 모십니다",
+					["serverTime"] = 1697726474,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						72, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484245.621,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [13]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Bining-로크홀라:4456:CHANNEL:4|h[|cff3fc6eaBining|r]|h: 얼왕 25인 3~4하드예상 3탐+@ 3천/5천시작 올분 < 보기 냥꾼 신기> 구인중 모출팟",
+					["serverTime"] = 1697726480,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						18, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484251.854,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [14]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:장세현-로크홀라:4457:CHANNEL:4|h[|cffff7c0a장세현|r]|h: 아카본 10인 죽탱/전탱/도적 1직",
+					["serverTime"] = 1697726482,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						65, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484253.854,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [15]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:젖쭌-로크홀라:4458:CHANNEL:4|h[|cff3fc6ea젖쭌|r]|h: 아카본 25인 [주특입]퓨 1 하 2~3 정술, 복술, 야드,  고술, 회드 귓 주세요[귓답못드려요 죄송]",
+					["serverTime"] = 1697726484,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						2, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484255.771,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [16]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:오크사돈-로크홀라:4459:CHANNEL:4|h[|cff8787ed오크사돈|r]|h: 돌전 버스 5바퀴 72~79렙. 2계귀기준 약 50% 경험치.  입구잠수, 소환ok 3/4 귓주세요    드락안카",
+					["serverTime"] = 1697726486,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						73, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484257.054,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [17]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:구라짱-로크홀라:4460:CHANNEL:4|h[|cfff48cba구라짱|r]|h: 25인 아카본 가실 정/복술 모셔요! 주특입 52+",
+					["serverTime"] = 1697726488,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						15, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484259.387,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [18]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:추죽-로크홀라:4461:CHANNEL:4|h[|cffc41e3a추죽|r]|h: [추공] 얼왕25인 3하드+@ 금요일 저녁9시 최대6탐 1주대타(암사or고흑)/부죽/힐솹정술 모집중입니다",
+					["serverTime"] = 1697726489,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						64, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484260.687,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [19]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:곰새키-로크홀라:4462:CHANNEL:4|h[|cffff7c0a곰새키|r]|h: [쿠왕] 아카본25 토라직 퓨1 하2~3 (퓨55+하53+) 주특입 / 죽탱,전탱(독식) 모셔요 귓답ㅈㅅㅇ",
+					["serverTime"] = 1697726493,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						42, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484264.854,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [20]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:블랙스텝-로크홀라:4463:CHANNEL:4|h[|cff8787ed블랙스텝|r]|h: 아카본25인 토라본만(주특팟) 퓨어딜[55+] 하브2~3[50+] 탱(전&죽) 딜(조,암,정,징,야,전) 힐(사&복&회) 모셔요~ 귓온순서 귓답X 죄송해요~",
+					["serverTime"] = 1697726495,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						58, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484266.937,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [21]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:돌팔이흑마-로크홀라:4464:CHANNEL:4|h[|cff8787ed돌팔이흑마|r]|h: 무작 뺑뱅이 탱 힐  오세요 퇴근자유요",
+					["serverTime"] = 1697726496,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						62, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484267.621,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [22]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:기억의향기-로크홀라:4465:CHANNEL:4|h[|cff3fc6ea기억의향기|r]|h: 안카(감마/막직)_풀파입니다 ㅠㅠ",
+					["serverTime"] = 1697726497,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						66, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484268.821,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [23]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:루조-로크홀라:4466:CHANNEL:4|h[|cffff7c0a루조|r]|h: 아카본10인 1직 [딜전] 모십니다 [54+]",
+					["serverTime"] = 1697726499,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						57, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484270.404,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [24]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Hfeel-로크홀라:4468:CHANNEL:4|h[|cff0070ddHfeel|r]|h: 안카감마 막직 후딲 갔다오실분 일퀘~~ 탱 (법사 흑마 있음)",
+					["serverTime"] = 1697726504,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						68, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484275.887,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [25]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:숄숄아:4469:CHANNEL:4|h[|cff8787ed숄숄아|r]|h: 아카본(토라본만) 10인 1직 가실 보기/전탱/도/냥/수사/복술/법 53++",
+					["serverTime"] = 1697726505,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						74, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484276.887,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [26]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:활무-로크홀라:4470:CHANNEL:4|h[|cff3fc6ea활무|r]|h: 아카본 25인 토라본 주특입 1직 조드 모십니다.(기코 5300이상만)",
+					["serverTime"] = 1697726510,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						47, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484281.904,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [27]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:영혼의은빛마을-로크홀라:4341:CHANNEL:4|h[|cfff48cba영혼의은빛마을|r]|h: 토라본 1직 탱모십니다. (탱 - 보기//죽탱/야탱 중 1명 구합니다5300",
+					["serverTime"] = 1697726170,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						9, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483941.687,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [28]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:술사님윤회요-로크홀라:4342:CHANNEL:4|h[|cff0070dd술사님윤회요|r]|h: 아카본 25인 토라본만 주특입 퓨1직 하2~3가실 회드 모십니다  기코귓주세요귓못드린분풀이에용..ㅠ",
+					["serverTime"] = 1697726174,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						10, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483945.587,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [29]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:나이트임-로크홀라:4343:CHANNEL:4|h[|cfff48cba나이트임|r]|h: 붉인십자군 수도원 저렙던전 딜2 힐1 모셔요",
+					["serverTime"] = 1697726175,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						6, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483946.637,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [30]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:스카이베타-로크홀라:4344:CHANNEL:4|h[|cffff7c0a스카이베타|r]|h: [전멸1공] 얼왕25인 하드 고정공대 인원 모집 중 <부죽/냥꾼/고흑(한주대타)> 일정: 매주 토22시4탐,일22시2탐@(2틀일정) 상담환영 <울두,십자군 로그참조>",
+					["serverTime"] = 1697726176,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						27, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483947.937,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [31]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Queniee:4345:CHANNEL:4|h[|cff3fc6eaQueniee|r]|h: [굿모닝] 얼왕10인하드[9-10H] 금요일 9시 (4탐)  암사(힐스왑)  정술   모셔요  (9-10H)",
+					["serverTime"] = 1697726179,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						28, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483950.92,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [32]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:로드하워드-로크홀라:4346:CHANNEL:4|h[|cfff48cba로드하워드|r]|h: 얼왕평작25 탱/원딜/복술회드신기 모셔요 5000+ 기코귓 초대X 5바퀴",
+					["serverTime"] = 1697726181,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						29, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483952.187,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [33]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:블레드엘프-로크홀라:4347:CHANNEL:4|h[|cffc41e3a블레드엘프|r]|h: 무작 던전 가보실 75-79 딜두분 모십니다",
+					["serverTime"] = 1697726181,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						11, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483952.637,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [34]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:에이체린:4348:CHANNEL:4|h[|cff8787ed에이체린|r]|h: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t 울두25인 6하드(모출) [알콜토미베요] 가실 선수[암사님, 부죽님, 정/복술님] 모십니다. 1천/하드3천, 30만올분(기코기입필요, 발아선입완료(3천골, 득처리), 손님별도문의 가능) (21/25)",
+					["serverTime"] = 1697726185,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						30, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483956.737,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [35]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:열화님-로크홀라:4349:CHANNEL:4|h[|cffffffff열화님|r]|h: [뽀송]얼왕25H 21(토) 오후7시 정공 7하드+ 고흑,복술 고정or한주참여 고흑대타구인  6탐+ 최대7탐 공대로그평균95+",
+					["serverTime"] = 1697726186,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						31, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483957.82,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [36]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:쉬리엘-로크홀라:4350:CHANNEL:4|h[|cfff48cba쉬리엘|r]|h: [이브-얼왕25하드] 금토22시(3탐+@)/ 전투,죽탱,냉죽,부죽,고흑,파흑 모십니다. 5500++ / 3하드완,5하드목표! / 조각선입완, 둘째날분배",
+					["serverTime"] = 1697726188,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						32, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483959.27,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [37]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:세레온-로크홀라:4351:CHANNEL:4|h[|cff3fc6ea세레온|r]|h: 얼왕 10인 토요일 12:00~16:00(4탐 칼쫑, 11하드 및 조기퇴근 목표) 신기, 모십니다(상담귓 환영, 공장 25인 11하드 완료)",
+					["serverTime"] = 1697726190,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						33, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483961.737,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [38]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:흑마의기본은소환:4352:CHANNEL:4|h[|cff8787ed흑마의기본은소환|r]|h: 안카 감마 막직 가실  탱 모십니다. 5300++",
+					["serverTime"] = 1697726191,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						34, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483962.754,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [39]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:까뿌까-로크홀라:4353:CHANNEL:4|h[|cff3fc6ea까뿌까|r]|h: 아카본10인 토라본직 죽딜or전딜 모십니당~ ",
+					["serverTime"] = 1697726194,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						35, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483965.32,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [40]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Penta:4354:CHANNEL:4|h[|cffaad372Penta|r]|h: 아카본 25인 주특입 퓨1 하2~3 탱<보기,전탱,죽탱,야탱>딜<전클래스> 힐<신기,복술,회드,수사> 주특입",
+					["serverTime"] = 1697726195,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						36, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483966.37,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [41]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:구라짱-로크홀라:4355:CHANNEL:4|h[|cfff48cba구라짱|r]|h: 25인 아카본 가실 고/정/복 야드 전탱 모셔요! 주특입 52+",
+					["serverTime"] = 1697726195,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						15, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483966.37,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [42]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:킴달수-로크홀라:4356:CHANNEL:4|h[|cfff48cba킴달수|r]|h: 아카몬 25인<<토라본 직>> 퓨어1직 하이브2~3직 주특입==전탱or죽탱, 고술, 징기, 야드, 딜죽, 조드, 암사, 신기, 힐사, 회드, 복술==모십니다(귓답x)",
+					["serverTime"] = 1697726206,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						3, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483977.22,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [43]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:정말큰힐이네-로크홀라:4357:CHANNEL:4|h[|cfff48cba정말큰힐이네|r]|h: 옛솔 일반 딜2 구슬나오면 500",
+					["serverTime"] = 1697726208,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						4, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483979.137,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [44]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:윙구-로크홀라:4358:CHANNEL:4|h[|cff0070dd윙구|r]|h: 얼왕25하드고정팟 금토(22:00~3+3총6탐) 고술 모심, 5H진행중(드림워커킬 사울팽 트라이) 근성가이/문의환영",
+					["serverTime"] = 1697726215,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						37, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483986.72,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [45]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:사탕따윈필요없어-로크홀라:4359:CHANNEL:4|h[|cff8787ed사탕따윈필요없어|r]|h: [얼왕10] 금 오후1시(4탐) 7하드 목표 >생냥/수사or신기< (5하드업적 or 딜탱GS5400+/2천올분)",
+					["serverTime"] = 1697726217,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						19, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483988.121,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [46]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:플아-로크홀라:4360:CHANNEL:4|h[|cfff48cba플아|r]|h: 아카본 10인 전탱,흑마,도적모십니다",
+					["serverTime"] = 1697726220,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						22, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483991.637,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [47]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:브롤스카즈-로크홀라:4361:CHANNEL:4|h[|cffc41e3a브롤스카즈|r]|h: 안카 감마 막직 가실 탱/흑 모셔용~~",
+					["serverTime"] = 1697726221,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						21, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483992.137,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [48]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:이쁠-로크홀라:4362:CHANNEL:4|h[|cfff48cba이쁠|r]|h: [등떠밀, 금 22:00] 3.5탐 / 얼왕10 부분하드 + 리치킹 / 보기or혈죽탱, 정복술 / 올분",
+					["serverTime"] = 1697726223,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						38, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483994.487,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [49]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:토끼없어요-로크홀라:4363:CHANNEL:4|h[|cffc69b6d토끼없어요|r]|h: >>가시넝쿨구릉<< 가실분 모셔요 36~45 (2/5)",
+					["serverTime"] = 1697726226,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						26, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 483997.237,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [50]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:젖쭌-로크홀라:4364:CHANNEL:4|h[|cff3fc6ea젖쭌|r]|h: 아카본 25인 [주특입]퓨 1 하 2~3 탱딜힐 귓 주세요[귓답못드려요 죄송]",
+					["serverTime"] = 1697726230,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						2, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484001.904,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [51]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:할래말래-로크홀라:4365:CHANNEL:4|h[|cff3fc6ea할래말래|r]|h: 아카본 풀",
+					["serverTime"] = 1697726231,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						13, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484002.221,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [52]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:술사님윤회요-로크홀라:4366:CHANNEL:4|h[|cff0070dd술사님윤회요|r]|h: 아카본 25인 토라본만 주특입 퓨1직 하2~3가실 /회드/ 모십니다  기코귓주세요귓못드린분풀이에용..ㅠ",
+					["serverTime"] = 1697726237,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						10, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484008.287,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [53]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:스미스최-로크홀라:4367:CHANNEL:4|h[|cff8787ed스미스최|r]|h: 얼왕 25하드 (저번주5하드완) 일요일13시 영약 4탐+@   고술/부죽/신기/고흑/조드/딜솹회드 구인 어둠한선입팟 5천  본팟10하드 경험자다수 ",
+					["serverTime"] = 1697726239,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						7, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484010.854,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [54]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:영혼의은빛마을-로크홀라:4368:CHANNEL:4|h[|cfff48cba영혼의은빛마을|r]|h: 토라본 1직 탱모십니다. (탱 - 보기//죽탱/야탱 중 1명 구합니다5300",
+					["serverTime"] = 1697726240,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						9, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484011.587,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [55]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:넌이미자고있다-로크홀라:4369:CHANNEL:4|h[|cffff7c0a넌이미자고있다|r]|h: [침착해]얼왕,25H,8H+@,2일일정,금:저녁9~1,일:저녁8~1,고정구인, 악흑 모십니다.문의환영",
+					["serverTime"] = 1697726249,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						39, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484020.254,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [56]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:나이트임-로크홀라:4370:CHANNEL:4|h[|cfff48cba나이트임|r]|h: 붉인십자군 수도원 저렙던전 딜2 모셔요",
+					["serverTime"] = 1697726249,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						6, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484020.587,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [57]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Penta-로크홀라:4371:CHANNEL:4|h[|cffaad372Penta|r]|h: 아카본 25인 주특입 퓨1 하2~3 탱<보기,전탱,죽탱,야탱>딜<전클래스> 힐<신기,복술,회드,수사> 주특입",
+					["serverTime"] = 1697726255,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						36, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484026.221,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [58]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:옻옻-로크홀라:4372:CHANNEL:4|h[|cffc69b6d옻옻|r]|h: [등떠밀]  얼왕25H / 토일 21:00 4탐 / 보기,야딜(탱솹),부죽or고흑, 복술 / 6하드",
+					["serverTime"] = 1697726255,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						40, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484026.987,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [59]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:철근이-로크홀라:4373:CHANNEL:4|h[|cff3fc6ea철근이|r]|h: 얼왕 10인 주사위팟(주특입)  딜(흑마 냥 )  힐(신기 복술) 모셔요 5000+ 6/10",
+					["serverTime"] = 1697726257,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						16, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484028.887,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [60]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:신체단련-로크홀라:4374:CHANNEL:4|h[|cff8787ed신체단련|r]|h: 얼음왕관 25  부분하드 /고정 토.일 8~12시 연장X /  도적(한주대타) 죽탱 부정죽기 악흑  고술님모셔유 / 상담환영/ 기코5500+ 파랑이상",
+					["serverTime"] = 1697726267,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						41, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484038.687,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [61]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:까뿌까-로크홀라:4375:CHANNEL:4|h[|cff3fc6ea까뿌까|r]|h: 아카본10인 토라본직 풀돼씀돵 ㅠㅠ 귓답죄송함돵",
+					["serverTime"] = 1697726267,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						35, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484038.687,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [62]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:정말큰힐이네-로크홀라:4376:CHANNEL:4|h[|cfff48cba정말큰힐이네|r]|h: 옛솔 일반 딜1 구슬나오면 500",
+					["serverTime"] = 1697726268,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						4, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484039.987,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [63]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:킴달수-로크홀라:4377:CHANNEL:4|h[|cfff48cba킴달수|r]|h: 아카몬 25인<<토라본 직>> 퓨어1직 하이브2~3직 주특입==전탱or죽탱, 고술, 야드, 딜죽, 암사, 회드, 복술==모십니다(귓답x)",
+					["serverTime"] = 1697726269,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						3, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484040.554,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [64]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:곰새키:4378:CHANNEL:4|h[|cffff7c0a곰새키|r]|h: [쿠왕] 아카본25 토라직 퓨1 하2~3 (퓨55+하53+) 주특입 / 전탱(독식),고술or정술,도적,냥꾼,법사,암사.딜죽 모셔요 귓답ㅈㅅㅇ",
+					["serverTime"] = 1697726276,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						42, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484047.654,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [65]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:빛의결정-로크홀라:4379:CHANNEL:4|h[|cfff48cba빛의결정|r]|h: 얼왕 10인 8H+ 금요일 저녁 8:30출 4탐+@ 수사 모십니다. N2/H3/무라딘,송해2만시작/올분",
+					["serverTime"] = 1697726282,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						43, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484053.837,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [66]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:브롤스카즈-로크홀라:4380:CHANNEL:4|h[|cffc41e3a브롤스카즈|r]|h: 안카 감마 막직 가실 탱님 모셔용~~",
+					["serverTime"] = 1697726283,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						21, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484054.504,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [67]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:구라짱-로크홀라:4381:CHANNEL:4|h[|cfff48cba구라짱|r]|h: 25인 아카본 가실 정/복술 야드 모셔요! 주특입 52+",
+					["serverTime"] = 1697726287,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						15, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484058.021,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [68]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:롤루-로크홀라:4382:CHANNEL:4|h[|cff0070dd롤루|r]|h: 아카본 10인 1직 전딜,도적 구합니다. 귓답못드려 죄송",
+					["serverTime"] = 1697726287,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						20, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484058.471,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [69]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:저스트댄스-로크홀라:4383:CHANNEL:4|h[|cfff48cba저스트댄스|r]|h: [저스트]  얼왕 25인 1.3 하드 월요일 밤9시출 4탐 탱솹딜 / 법사 /정술 / 복술 고정 or 한주 참여 하실분 모십니다!! 적당한 로그는 봅니다",
+					["serverTime"] = 1697726288,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						23, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484059.154,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [70]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:타린이-로크홀라:4384:CHANNEL:4|h[|cffff7c0a타린이|r]|h: 지옥불성루 스핀 가실 탱or힐1딜1구해요",
+					["serverTime"] = 1697726289,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						44, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484060.554,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [71]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:고흑만한다-로크홀라:4385:CHANNEL:4|h[|cff8787ed고흑만한다|r]|h: 얼왕 25인 6하드+@ 매주 화,수밤 9시출 3.5탐 신기 한주 참여인원 모집 합니다. 로그 확인후 초대",
+					["serverTime"] = 1697726290,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						24, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484061.171,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [72]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:젖쭌-로크홀라:4386:CHANNEL:4|h[|cff3fc6ea젖쭌|r]|h: 아카본 25인 [주특입]퓨 1 하 2~3 탱딜힐 귓 주세요[귓답못드려요 죄송]",
+					["serverTime"] = 1697726292,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						2, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484063.521,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [73]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:언스흑마-로크홀라:4387:CHANNEL:4|h[|cff8787ed언스흑마|r]|h: <아카본10인 토라>  전클 모셔요 (기코+특성 귓주세요)",
+					["serverTime"] = 1697726296,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						45, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484067.154,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [74]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Bining-로크홀라:4388:CHANNEL:4|h[|cff3fc6eaBining|r]|h: 얼왕 25인 3~4하드예상 3탐+@ 3천/5천시작 올분 < 보기 냥꾼 법사  > 구인중 모출팟",
+					["serverTime"] = 1697726297,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						18, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484068.621,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [75]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:술사님윤회요-로크홀라:4389:CHANNEL:4|h[|cff0070dd술사님윤회요|r]|h: 아카본 25인 토라본만 주특입 퓨1직 하2~3가실 /회드/ 모십니다 회드 1 모십니다~~",
+					["serverTime"] = 1697726298,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						10, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484069.321,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [76]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:한국자산공사-로크홀라:4390:CHANNEL:4|h[|cfff48cba한국자산공사|r]|h: 아카본10 토라만 딜(전,도,냥)힐(복,회,사,신) 모셔요~기코 귓주세요",
+					["serverTime"] = 1697726299,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						46, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484070.571,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [77]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:활무:4391:CHANNEL:4|h[|cff3fc6ea활무|r]|h: 아카본 25인 토라본 주특입 1직 탱(야탱풀)딜러(법사풀)힐러(복술풀) 모시빈다.(기코 5300이상만)",
+					["serverTime"] = 1697726311,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						47, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484082.537,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [78]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:로드하워드-로크홀라:4392:CHANNEL:4|h[|cfff48cba로드하워드|r]|h: 얼왕평작25 죽기도적야드 모셔요 5000+ 기코귓 초대X 5바퀴",
+					["serverTime"] = 1697726317,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						29, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484088.204,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [79]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:도담다담-로크홀라:4393:CHANNEL:4|h[|cff0070dd도담다담|r]|h: ♣VinTG♣얼왕25H/월화/저녁8시공초/4탐/7H완료/9~10H<고정-회드1>로그참조,문의환영",
+					["serverTime"] = 1697726319,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						48, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484090.737,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [80]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:조준선정렬-로크홀라:4394:CHANNEL:4|h[|cffaad372조준선정렬|r]|h: 얼왕 25 5H+@ 금요일 20시-02시 악흑 신기 복술 조각1.5선입 ///   토요일 오전09시-15시 분전 냉죽 고흑 악흑 신기2 조각1.3선입 모셔요",
+					["serverTime"] = 1697726320,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						49, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484091.737,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [81]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:팟바-로크홀라:4395:CHANNEL:4|h[|cffaad372팟바|r]|h: <팟바> 얼왕 25H  10+@ 토요일 16시-01시 고술 부죽 냉죽 법사 조드(한주)// <팟바2> 10+@ 일요일 16시-01시 딜죽 악흑(한주) 모셔요",
+					["serverTime"] = 1697726321,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						50, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484092.837,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [82]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:토끼없어요-로크홀라:4396:CHANNEL:4|h[|cffc69b6d토끼없어요|r]|h: >>가시넝쿨구릉<< 가실분 모셔요 36~45 (3/5)",
+					["serverTime"] = 1697726324,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						26, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484095.021,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [83]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Ninav-로크홀라:4397:CHANNEL:4|h[|cfff48cbaNinav|r]|h: 아카본 10인 법사,도적,냥꾼",
+					["serverTime"] = 1697726324,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						51, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484095.021,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [84]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Penta-로크홀라:4398:CHANNEL:4|h[|cffaad372Penta|r]|h: 아카본 25인 주특입 퓨1 하2~3 탱딜<고술,정술> 힐<복술,회드,수사> 주특입",
+					["serverTime"] = 1697726329,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						36, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484100.587,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [85]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:킴달수-로크홀라:4399:CHANNEL:4|h[|cfff48cba킴달수|r]|h: 아카몬 25인<<토라본 직>> 퓨어1직 하이브2~3직 주특입==전탱or죽탱, 딜전, 고술, 야드,  회드, 복술==모십니다(귓답x)",
+					["serverTime"] = 1697726329,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						3, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484100.587,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [86]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:정말큰힐이네-로크홀라:4400:CHANNEL:4|h[|cfff48cba정말큰힐이네|r]|h: 옛솔 일반 딜1 구슬나오면 500",
+					["serverTime"] = 1697726332,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						4, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484103.554,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [87]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:드루덱스:4401:CHANNEL:4|h[|cffff7c0a드루덱스|r]|h: 아카본 10인 도/냥/법/흑/신기/사제/술사 구합니다.",
+					["serverTime"] = 1697726334,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						52, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484105.304,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [88]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:염원한넘-로크홀라:4402:CHANNEL:4|h[|cffc41e3a염원한넘|r]|h: [모출]얼왕25 3-4하드(3탐+) 3/5천 올분  탱(보기,전탱) 딜(냉죽)  힐(수사,복술)  기코/경험 귓주세요 !!!!!",
+					["serverTime"] = 1697726336,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						53, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484107.521,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [89]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:찰밤빵:4403:CHANNEL:4|h[|cff8787ed찰밤빵|r]|h: 안카 막직 탱커님 모셔요~!",
+					["serverTime"] = 1697726336,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						54, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484107.821,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [90]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:드순-로크홀라:4404:CHANNEL:4|h[|cffff7c0a드순|r]|h: 얼왕 10인 7~8하드 3탐+@ 내일(금) 오전 10시 30분 가실 / 악흑 죽탱 정복술 냥꾼 / 모십니다. ",
+					["serverTime"] = 1697726338,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						55, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484109.421,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [91]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:곰새키-로크홀라:4405:CHANNEL:4|h[|cffff7c0a곰새키|r]|h: [쿠왕] 아카본25 토라직 퓨1 하2~3 (퓨55+하53+) 주특입 / 전탱(독식),고술or정술(독식) 모셔요 귓답ㅈㅅㅇ",
+					["serverTime"] = 1697726344,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						42, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484115.487,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [92]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:철근이-로크홀라:4406:CHANNEL:4|h[|cff3fc6ea철근이|r]|h: 얼왕 10인 주사위팟(주특입)  딜( 냥 )  힐(신기 복술) 모셔요 5000+ 7/10",
+					["serverTime"] = 1697726346,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						16, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484117.387,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [93]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:플아-로크홀라:4407:CHANNEL:4|h[|cfff48cba플아|r]|h: 아카본 10인 전탱,수사모십니다",
+					["serverTime"] = 1697726346,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						22, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484117.387,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [94]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:롤루-로크홀라:4408:CHANNEL:4|h[|cff0070dd롤루|r]|h: 아카본 10인 1직 전탱 혹은 죽탱 구합니다. 귓답못드려 죄송",
+					["serverTime"] = 1697726349,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						20, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484120.354,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [95]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:구라짱-로크홀라:4409:CHANNEL:4|h[|cfff48cba구라짱|r]|h: 25인 아카본 가실 정/복술 야드 모셔요! 주특입 52+",
+					["serverTime"] = 1697726349,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						15, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484120.654,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [96]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:너네보기정격없어-로크홀라:4410:CHANNEL:4|h[|cfff48cba너네보기정격없어|r]|h: [지나공]얼왕성채25인[첫주8하드완] / 토일오후2시-6시 고정 야딜 구인합니다. 로그참고/상담환영",
+					["serverTime"] = 1697726360,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						56, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484131.987,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [97]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:나이트임-로크홀라:4411:CHANNEL:4|h[|cfff48cba나이트임|r]|h: 붉인십자군 수도원 저렙던전 딜2 모셔요",
+					["serverTime"] = 1697726366,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						6, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484137.587,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [98]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:루조-로크홀라:4412:CHANNEL:4|h[|cffff7c0a루조|r]|h: 아카본10인 1직 [탱 딜 힐] 모십니다 [54+]",
+					["serverTime"] = 1697726366,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						57, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484137.587,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [99]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:타린이-로크홀라:4414:CHANNEL:4|h[|cffff7c0a타린이|r]|h: 지옥불성루 스핀 가실 탱or힐1딜1구해요",
+					["serverTime"] = 1697726375,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						44, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484146.971,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [100]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:블랙스텝:4415:CHANNEL:4|h[|cff8787ed블랙스텝|r]|h: 아카본25인 토라본만(주특팟) 퓨어딜[55+] 하브2~3[50+] 탱(전&보&죽) 딜(법,도,냥//조,암,정,징,야,전,죽) 힐(사&복&회&신) 모셔요~ 귓온순서 귓답X 죄송해요~",
+					["serverTime"] = 1697726376,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						58, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484147.921,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [101]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:술사님윤회요-로크홀라:4416:CHANNEL:4|h[|cff0070dd술사님윤회요|r]|h: 아카본 25인 토라본만 주특입 퓨1직 하2~3가실 /회드/ 모십니다 회드 1 모십니다~~",
+					["serverTime"] = 1697726378,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						10, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484149.954,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [102]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:스미스최-로크홀라:4417:CHANNEL:4|h[|cff8787ed스미스최|r]|h: 얼왕 25하드 (저번주5하드완) 일요일13시 영약 4탐+@   고술/부죽/신기/고흑/조드/딜솹회드 구인 어둠한선입팟 5천  본팟10하드 경험자다수 ",
+					["serverTime"] = 1697726380,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						7, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484151.071,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [103]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:드루는곰폼이지-로크홀라:4418:CHANNEL:4|h[|cffff7c0a드루는곰폼이지|r]|h: [T25공대] - 얼왕 25인 하드 - / 3하드+@ / 토 : 저녁 8시~1시(조각 2.3만 선입)  / [ 복술 ] 고정 구인합니다. 상담 귓~",
+					["serverTime"] = 1697726383,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						59, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484154.087,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [104]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:뷰비:4419:CHANNEL:4|h[|cfff48cba뷰비|r]|h: 가방지원 부탁드립니다 15년차 복귀에요 ㅠ",
+					["serverTime"] = 1697726383,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						60, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484154.337,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [105]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:토끼없어요-로크홀라:4420:CHANNEL:4|h[|cffc69b6d토끼없어요|r]|h: >>가시넝쿨구릉<< 가실분 모셔요 36~45 (3/5)",
+					["serverTime"] = 1697726386,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						26, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484157.821,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [106]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Penta-로크홀라:4421:CHANNEL:4|h[|cffaad372Penta|r]|h: 아카본 25인 주특입 퓨1 하2~3 탱딜<고술,조드> 힐<복술,회드,수사> 주특입",
+					["serverTime"] = 1697726392,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						36, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484163.054,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [107]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:리치좋아해:4422:CHANNEL:4|h[|cfff48cba리치좋아해|r]|h: 십자군 25인 올하드 (50트 지향)가실 전클 모집합니다..!!! 템 시작가 3천골!!! 30만 이상 올분..십자군 로그 70점 이상만 지원부탁 ",
+					["serverTime"] = 1697726398,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						61, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484169.287,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [108]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:돌팔이흑마-로크홀라:4423:CHANNEL:4|h[|cff8787ed돌팔이흑마|r]|h: 무작 뺑뱅이 탱 힐 딜  오세요 퇴근자유요",
+					["serverTime"] = 1697726399,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						62, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484170.404,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [109]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:쉬리엘-로크홀라:4424:CHANNEL:4|h[|cfff48cba쉬리엘|r]|h: [이브-얼왕25하드] 금토22시(3탐+@)/ 전투,죽탱,냉죽,부죽,고흑,파흑 모십니다. 5500++ / 3하드완,5하드목표! / 조각선입완, 둘째날분배",
+					["serverTime"] = 1697726400,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						32, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484171.087,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [110]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:킴달수-로크홀라:4425:CHANNEL:4|h[|cfff48cba킴달수|r]|h: 아카본 25인<<토라 직>> 퓨어1직 하이브2~3직 주특입==전탱or죽탱, 딜전, 고술, 회드, 복술==모십니다(귓답x)",
+					["serverTime"] = 1697726400,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						3, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484171.404,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [111]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:넌이미자고있다-로크홀라:4426:CHANNEL:4|h[|cffff7c0a넌이미자고있다|r]|h: [침착해]얼왕,25H,8H+@,2일일정,금:저녁9~1,일:저녁8~1,고정구인, 악흑 모십니다.문의환영",
+					["serverTime"] = 1697726401,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						39, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484172.071,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [112]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:젖쭌-로크홀라:4427:CHANNEL:4|h[|cff3fc6ea젖쭌|r]|h: 아카본 25인 [주특입]퓨 1 하 2~3 정술, 복술, 야드,  고술, 회드 귓 주세요[귓답못드려요 죄송]",
+					["serverTime"] = 1697726402,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						2, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484173.537,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [113]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:찰밤빵-로크홀라:4428:CHANNEL:4|h[|cff8787ed찰밤빵|r]|h: 안카 감마 막직 가실 탱커님 모셔요~!",
+					["serverTime"] = 1697726402,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						54, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484173.537,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [114]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:누코코:4429:CHANNEL:4|h[|cff3fc6ea누코코|r]|h: 아카본 10인 전클",
+					["serverTime"] = 1697726404,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						63, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484175.804,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [115]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:추죽-로크홀라:4430:CHANNEL:4|h[|cffc41e3a추죽|r]|h: [추공] 얼왕25인 3하드+@ 금요일 저녁9시 최대6탐 1주대타(암사or고흑)/부죽/힐솹정술 모집중입니다",
+					["serverTime"] = 1697726408,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						64, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484179.604,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [116]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:Bining-로크홀라:4431:CHANNEL:4|h[|cff3fc6eaBining|r]|h: 얼왕 25인 3~4하드예상 3탐+@ 3천/5천시작 올분 < 보기 전탱 냥꾼 신기> 구인중 모출팟",
+					["serverTime"] = 1697726413,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						18, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484184.654,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [117]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:드루덱스-로크홀라:4432:CHANNEL:4|h[|cffff7c0a드루덱스|r]|h: 아카본 10인 사제,전사 구합니다.",
+					["serverTime"] = 1697726414,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						52, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484185.487,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [118]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:곰새키-로크홀라:4433:CHANNEL:4|h[|cffff7c0a곰새키|r]|h: [쿠왕] 아카본25 토라직 퓨1 하2~3 (퓨55+하53+) 주특입 / 전탱(독식) 모셔요 귓답ㅈㅅㅇ",
+					["serverTime"] = 1697726416,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						42, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484187.637,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [119]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:장세현:4434:CHANNEL:4|h[|cffff7c0a장세현|r]|h: 아카본 10인 죽탱/전탱 그외딜 1직 (드/기/냥 풀)",
+					["serverTime"] = 1697726420,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						65, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484191.354,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [120]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:사탕따윈필요없어-로크홀라:4435:CHANNEL:4|h[|cff8787ed사탕따윈필요없어|r]|h: [얼왕10] 금 오후1시(4탐) 7하드 목표 >생냥/수사or신기< (5하드업적 or 딜탱GS5400+/2천올분)",
+					["serverTime"] = 1697726423,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						19, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484194.687,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [121]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:기억의향기:4436:CHANNEL:4|h[|cff3fc6ea기억의향기|r]|h: 안카(감마/막직)_탱커/흑마/딜러/힐러_모셔요!",
+					["serverTime"] = 1697726427,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						66, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484198.371,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [122]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:쎄븐일레븐-로크홀라:4437:CHANNEL:4|h[|cffaad372쎄븐일레븐|r]|h: 얼왕10인(금) pm8시30분 출발  8하드 4탐(수사 구인중) (로그확인후 답변  답장느려도 꼭해드림, 마음맞으면 왕몰자까지 길게가실분 환영)",
+					["serverTime"] = 1697726430,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						17, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484201.554,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [123]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:루조-로크홀라:4438:CHANNEL:4|h[|cffff7c0a루조|r]|h: 아카본10인 1직 [죽탱,전탱,수사,복술,법,흑] 모십니다 [54+]",
+					["serverTime"] = 1697726431,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						57, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484202.437,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [124]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:현지볼:4439:CHANNEL:4|h[|cffffffff현지볼|r]|h: 아카본 10 술사 드루 도적 죽기 모셔요",
+					["serverTime"] = 1697726435,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						67, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484206.804,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [125]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:로드하워드-로크홀라:4440:CHANNEL:4|h[|cfff48cba로드하워드|r]|h: 얼왕평작25 탱1 5000+ 기코귓 초대X 5바퀴",
+					["serverTime"] = 1697726437,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						29, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484208.287,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [126]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:철근이-로크홀라:4441:CHANNEL:4|h[|cff3fc6ea철근이|r]|h: 얼왕 10인 주사위팟(주특입)  딜( 냥 )  힐(신기 복술) 모셔요 5000+ 7/10",
+					["serverTime"] = 1697726439,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						16, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484210.054,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [127]
+				{
+					["message"] = "|Hchannel:channel:4|h[4. 파티찾기]|h |Hplayer:언스흑마-로크홀라:4442:CHANNEL:4|h[|cff8787ed언스흑마|r]|h: <아카본10인 토라>  전사/죽탱 모셔요 (기코+특성 귓주세요)",
+					["serverTime"] = 1697726440,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						1, -- [2]
+						45, -- [3]
+						"CHAT_MSG_CHANNEL", -- [4]
+						nil, -- [5]
+						nil --[[ skipped inline function ]], -- [6]
+						["n"] = 6,
+					},
+					["timestamp"] = 484211.421,
+					["g"] = 0.7529412508010864,
+					["b"] = 0.7529412508010864,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 5,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "음성 받아쓰기를 사용하면 음성 채널에 자막이 추가됩니다.",
+					["g"] = 1,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 483834.187,
+					["serverTime"] = 1697725886,
+					["b"] = 0,
+				}, -- [1]
+				{
+					["message"] = "음성 받아쓰기를 사용하면 음성 채널에 자막이 추가됩니다.",
+					["serverTime"] = 1697726065,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 483834.187,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [2]
+				{
+					["message"] = "0일, 0시간, 0분, 0초",
+					["timestamp"] = 483834.187,
+				}, -- [3]
+				{
+					["message"] = "========== 이전 대화 목록의 끝 ==========",
+					["timestamp"] = 483834.187,
+				}, -- [4]
+				{
+					["message"] = "음성 받아쓰기를 사용하면 음성 채널에 자막이 추가됩니다.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 483834.187,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 28,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["ReverseEnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-BWL is deprecated and will not be available. Please remove the folder DBM-BWL from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-BWL that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [1]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-BlackTemple is deprecated and will not be available. Please remove the folder DBM-BlackTemple from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-BlackTemple that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [2]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-Naxx is deprecated and will not be available. Please remove the folder DBM-Naxx from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-Naxx that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [3]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-Serpentshrine is deprecated and will not be available. Please remove the folder DBM-Serpentshrine from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-Serpentshrine that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [4]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-Coliseum is deprecated and will not be available. Please remove the folder DBM-Coliseum from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-Coliseum that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [5]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-VoA is deprecated and will not be available. Please remove the folder DBM-VoA from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-VoA that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [6]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-AQ40 is deprecated and will not be available. Please remove the folder DBM-AQ40 from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-AQ40 that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [7]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-AQ20 is deprecated and will not be available. Please remove the folder DBM-AQ20 from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-AQ20 that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [8]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-Icecrown is deprecated and will not be available. Please remove the folder DBM-Icecrown from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-Icecrown that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [9]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-EyeOfEternity is deprecated and will not be available. Please remove the folder DBM-EyeOfEternity from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-EyeOfEternity that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [10]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-Onyxia is deprecated and will not be available. Please remove the folder DBM-Onyxia from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-Onyxia that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [11]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-Ulduar is deprecated and will not be available. Please remove the folder DBM-Ulduar from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-Ulduar that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [12]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-ChamberOfAspects is deprecated and will not be available. Please remove the folder DBM-ChamberOfAspects from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-ChamberOfAspects that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [13]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-ZG is deprecated and will not be available. Please remove the folder DBM-ZG from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-ZG that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [14]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-ZulAman is deprecated and will not be available. Please remove the folder DBM-ZulAman from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-ZulAman that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [15]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-Karazhan is deprecated and will not be available. Please remove the folder DBM-Karazhan from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-Karazhan that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [16]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-Sunwell is deprecated and will not be available. Please remove the folder DBM-Sunwell from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-Sunwell that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [17]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-TheEye is deprecated and will not be available. Please remove the folder DBM-TheEye from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-TheEye that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [18]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-Hyjal is deprecated and will not be available. Please remove the folder DBM-Hyjal from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-Hyjal that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [19]
+				{
+					["message"] = "|cffff7d0a<|r|cffffd200DBM|r|cffff7d0a>|r The mod DBM-MC is deprecated and will not be available. Please remove the folder DBM-MC from your Interface\\AddOns folder to get rid of this message. Check for an updated version of DBM-MC that is compatible with your game version.",
+					["r"] = 0.41,
+					["timestamp"] = 483834.187,
+					["g"] = 0.8,
+					["b"] = 0.94,
+				}, -- [20]
+				{
+					["message"] = "|cff30fc96Questie|r: |cff00bc32Hiding drop-down menus on the World Map.|r This is currently necessary as a workaround for a bug in the default Blizzard UI related to drop-down menus.",
+					["timestamp"] = 483834.187,
+				}, -- [21]
+				{
+					["message"] = "|cff00ff00■ |cffffaa00Saved!|r 활성화 |cff00ff00■|r",
+					["timestamp"] = 483834.187,
+					["serverTime"] = 1697726065,
+				}, -- [22]
+				{
+					["message"] = "|cffffff00IRF3: |r 외부 라이브러리 로드 없음",
+					["r"] = 1,
+					["serverTime"] = 1697726065,
+					["timestamp"] = 483834.187,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [23]
+				{
+					["message"] = "|cff30fc96Questie|r: |cffff0000Please note:|r One of the next Questie releases will reset your settings. We advise you to backup your Questie related Saved Variables as a precaution. This can be done by creating a copy of the WTF folder of your WoW install.",
+					["timestamp"] = 483836.967,
+					["serverTime"] = 1697726065,
+				}, -- [24]
+				{
+					["message"] = "|cff59f0dcTacoTip v0.3.5 안전한 여행되세요 ~ 제작자 : kebabstorm ",
+					["timestamp"] = 483837.187,
+					["serverTime"] = 1697726066,
+				}, -- [25]
+				{
+					["message"] = "|cFFffff00[Questie]|r 월드 이벤트 'Hallow's End' 활성화",
+					["timestamp"] = 483838.004,
+					["serverTime"] = 1697726066,
+				}, -- [26]
+				{
+					["message"] = "자리 비움: 자리 비움 상태로 설정되었습니다.",
+					["serverTime"] = 1697726369,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 484140.287,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "자리 비움 상태가 해제되었습니다.",
+					["serverTime"] = 1697726502,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 484273.921,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [28]
+			},
+			["maxElements"] = 128,
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

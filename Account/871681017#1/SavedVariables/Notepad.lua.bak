@@ -1,0 +1,10 @@
+
+Notepad_Vars = {
+	["NoteFontName"] = "Friz Quadrata TT",
+	["MinimapIcon"] = {
+		["hide"] = false,
+	},
+	["NoteFontHeight"] = 10,
+	["Notes"] = {
+	},
+}

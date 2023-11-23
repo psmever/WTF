@@ -1,0 +1,45 @@
+VER 3 0000000001000005 "공포" "134400"
+#showtooltip
+/clearfocus [target=focus,dead]
+/clearfocus [target=focus,noexists]
+/focus [target=focus]
+/cast 공포
+/stopmacro [target=focus,noexists,nogroup]
+END
+VER 3 0000000001000003 "생석" "134400"
+#showtooltip 하급 생명석
+/use 하급 생명석
+END
+VER 3 0000000001000004 "생전" "134400"
+#showtooltip 생명력 전환
+/cast 활력
+/cast 생명력 전환
+END
+VER 3 0000000001000001 "생흡" "134400"
+#showtooltip 생명력 흡수
+/cast [nochanneling]생명력 흡수
+END
+VER 3 0000000001000007 "암수" "134400"
+#showtooltip 암흑계 수호
+/stopcasting
+/cast 암흑계 수호
+END
+VER 3 0000000001000006 "어활" "134400"
+#showtooltip 어둠의 화살
+/dismount
+/petattack
+/targetenemy [noexists][dead]
+/cast 어둠의 화살
+END
+VER 3 0000000001000002 "영흡" "134400"
+#showtooltip 영혼 흡수
+/cast [nochanneling]영혼 흡수
+END
+VER 3 0000000001000008 "추방" "134400"
+#showtooltip
+/clearfocus [target=focus,dead]
+/clearfocus [target=focus,noexists]
+/focus [target=focus]
+/cast 추방
+/stopmacro [target=focus,noexists,nogroup]
+END

@@ -1,0 +1,34 @@
+
+portalMageData = {
+	["Y"] = 364.7044677734375,
+	["Vertical"] = true,
+	["Runes"] = {
+		["Portal"] = {
+			["show"] = true,
+			["position"] = "TOPLEFT",
+		},
+		["Teleport"] = {
+			["show"] = true,
+			["position"] = "BOTTOMLEFT",
+		},
+	},
+	["Mouseover"] = false,
+	["Scale"] = 1.003020167350769,
+	["Opacity"] = 0.4223887026309967,
+	["Invert"] = true,
+	["X"] = 2473.362060546875,
+}
+portalMageSpells = {
+	["undercity"] = true,
+	["shattrath"] = true,
+	["stonard"] = true,
+	["silvermoon"] = true,
+	["darnassus"] = true,
+	["thunderbluff"] = true,
+	["theramore"] = true,
+	["exodar"] = true,
+	["ironforge"] = true,
+	["dalaran"] = true,
+	["stormwind"] = true,
+	["orgrimmar"] = true,
+}

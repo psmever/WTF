@@ -1,0 +1,111 @@
+VER 3 0000000001000016 "냉돌" "134400"
+#showtooltip
+/dismount
+/cast [nomod] 냉기 돌풍
+/cast [mod:shift] 화염구
+END
+VER 3 0000000001000008 "냉수" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast 냉기계 수호
+END
+VER 3 000000000100000A "눈보라" "INV_MISC_QUESTIONMARK"
+#showtooltip 눈보라
+/cast !눈보라
+END
+VER 3 0000000001000013 "동결" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast 동결
+END
+VER 3 0000000001000017 "마나석" "134400"
+#showtooltip
+/stopcasting
+/use 마나 에메랄드
+/use 무한의 마나 물약
+END
+VER 3 0000000001000006 "마차" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [mod:shift, @focus][@target][] 마법 차단
+END
+VER 3 0000000001000010 "물정령" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nopet] 물의 정령 소환;얼리기
+/run local p,s=PetDismiss,SecureCmdOptionParse(\"[target=pet,dead]\")if s then p()end
+/stopmacro [nopet]
+/petdefensive
+/petfollow
+END
+VER 3 0000000001000015 "비작" "INV_MISC_QUESTIONMARK"
+#showtooltip 비전 작렬
+/dismount
+/use 13
+/use 비전 작렬
+END
+VER 3 0000000001000012 "신폭" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] 신비한 폭발
+/cast [mod:shift] 신비한 폭발(1 레벨)
+END
+VER 3 000000000100000B "신화" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/nochanneling
+/cast 신비한 화살
+END
+VER 3 0000000001000002 "양변" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/clearfocus [target=focus,dead]
+/clearfocus [target=focus,noexists]
+/focus [target=focus]
+/cast 변이
+/stopmacro [target=focus,noexists,nogroup]
+END
+VER 3 0000000001000009 "얼방" "INV_MISC_QUESTIONMARK"
+#showtooltip 얼음 방패
+/stopcasting
+#/cancelaura 얼음 방패
+/cast 얼음 방패
+END
+VER 3 000000000100000E "얼보" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/dismount
+#/castsequence reset=30 얼음 보호막, 마나 보호막
+#/castsequence reset=24 얼음 보호막, 마나 보호막
+/cast [nomod] 얼음 보호막
+/cast [mod:shift] 마나 보호막
+END
+VER 3 0000000001000005 "얼핏" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast 얼음 핏줄
+#/cast 신비의 마법 강화
+#/cast 환영 복제
+END
+VER 3 000000000100000F "얼화" "INV_MISC_QUESTIONMARK"
+#showtooltip 얼음 화살
+/console Sound_EnableSFX 0
+/dismount
+/use 13
+#/use 14
+/cast [nomod] 얼음 화살
+/cast [mod:shift] 얼음불꽃 화살
+#/script UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+END
+VER 3 0000000001000004 "저해" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [help][target=targettarget,help][target=player] 저주 해제
+END
+VER 3 000000000100000C "한파" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast 매서운 한파
+END
+VER 3 0000000001000007 "화수" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast 화염계 수호
+END

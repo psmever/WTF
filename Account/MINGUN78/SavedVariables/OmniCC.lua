@@ -1,0 +1,58 @@
+
+OmniCCDB = {
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "10.0.2",
+	},
+	["profileKeys"] = {
+		["프리와이 - 로크홀라"] = "기본",
+		["엠스톤 - 로크홀라"] = "기본",
+		["지금창고 - 로크홀라"] = "기본",
+	},
+	["profiles"] = {
+		["기본"] = {
+			["rules"] = {
+				{
+					["enabled"] = false,
+					["patterns"] = {
+						"Aura", -- [1]
+						"Buff", -- [2]
+						"Debuff", -- [3]
+					},
+					["name"] = "오라",
+					["id"] = "auras",
+				}, -- [1]
+				{
+					["enabled"] = false,
+					["patterns"] = {
+						"Plate", -- [1]
+					},
+					["name"] = "개체 이름표",
+					["id"] = "plates",
+				}, -- [2]
+				{
+					["enabled"] = false,
+					["patterns"] = {
+						"ActionButton", -- [1]
+						"MultiBar", -- [2]
+					},
+					["name"] = "행동 단축바",
+					["id"] = "actions",
+				}, -- [3]
+			},
+			["themes"] = {
+				["기본"] = {
+					["textStyles"] = {
+						["soon"] = {
+						},
+						["minutes"] = {
+						},
+						["seconds"] = {
+						},
+					},
+				},
+			},
+		},
+	},
+}
+OmniCC4Config = nil

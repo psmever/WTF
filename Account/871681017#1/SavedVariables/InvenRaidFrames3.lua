@@ -1,0 +1,28 @@
+
+InvenRaidFrames3DB = {
+	["profileKeys"] = {
+	},
+	["minimapButton"] = {
+		["show"] = true,
+		["radius"] = 80,
+		["angle"] = 19,
+		["dragable"] = true,
+		["rounding"] = 10,
+	},
+	["profiles"] = {
+		["기본값"] = {
+			["scale"] = 0.98,
+			["height"] = 25,
+			["petpx"] = 1050.256501464844,
+			["borderEdgeValue"] = 1,
+			["enableSpellTimer"] = true,
+			["enableClassBuff"] = true,
+			["units"] = {
+				["useCastingBar"] = false,
+			},
+			["px"] = 133.7435620117188,
+			["petpy"] = -590.7688037109375,
+			["py"] = -512.8199243164063,
+		},
+	},
+}

@@ -1,0 +1,72 @@
+VER 3 0000000001000007 "냉수" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast 냉기계 수호
+END
+VER 3 0000000001000005 "루비" "INV_MISC_QUESTIONMARK"
+#showtooltip 마나 비취
+/사용 마나 루비
+/사용 마나 황수정
+/사용 마나 비취
+/사용 마나 마노
+END
+VER 3 0000000001000009 "마보" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/시전 마나 보호막
+END
+VER 3 0000000001000003 "마차" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount [mounted]
+/stopcasting
+/시전 마법 차단
+END
+VER 3 000000000100000D "보막" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount [mounted]
+/stopcasting
+/cast 얼음 보호막
+END
+VER 3 0000000001000004 "신화" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling:신비한 화살] 신비한 화살
+END
+VER 3 0000000001000006 "얼방" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount [mounted]
+/stopcasting
+#/cancelaura 얼음 방패
+/cast 얼음 방패
+END
+VER 3 0000000001000002 "얼화" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount [mounted]
+/cast  얼음 화살
+END
+VER 3 000000000100000A "얼회" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount [mounted]
+/stopcasting
+/cast 얼음 회오리(1 레벨)
+END
+VER 3 000000000100000B "저낙" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/dismount [mounted]
+/stopcasting
+/cast 저속 낙하
+END
+VER 3 0000000001000001 "저해" "INV_MISC_QUESTIONMARK"
+#showtooltip 하급 저주 해제
+/cast [@mouseover,help][] 하급 저주 해제
+END
+VER 3 000000000100000C "점멸" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/dismount [mounted]
+/cast 점멸
+END
+VER 3 0000000001000008 "화수" "INV_MISC_QUESTIONMARK"
+#showtooltip 화염계 수호
+/dismount [mounted]
+/stopcasting
+/cast 화염계 수호
+END

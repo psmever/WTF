@@ -1,0 +1,47 @@
+
+XLootADB = {
+	["namespaces"] = {
+		["Group"] = {
+			["profiles"] = {
+				["Default"] = {
+					["alert_anchor"] = {
+						["visible"] = false,
+					},
+					["roll_anchor"] = {
+						["visible"] = false,
+						["x"] = 962.1868896484375,
+						["y"] = 693.3336791992188,
+					},
+				},
+			},
+		},
+		["Frame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["frame_snap"] = false,
+				},
+			},
+		},
+		["Monitor"] = {
+			["profiles"] = {
+				["Default"] = {
+					["anchor"] = {
+						["y"] = 1181.538452148438,
+						["x"] = 1137.777954101563,
+						["visible"] = false,
+					},
+				},
+			},
+		},
+		["Master"] = {
+		},
+	},
+	["profileKeys"] = {
+		["엠스톤 - 로크홀라"] = "Default",
+		["프리와이 - 로크홀라"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

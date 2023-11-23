@@ -1,0 +1,2 @@
+Bagnon_GuildBank: enabled
+Bagnon_Config: enabled

@@ -1,0 +1,16 @@
+
+portalMageData = nil
+portalMageSpells = {
+	["undercity"] = true,
+	["shattrath"] = true,
+	["stonard"] = true,
+	["silvermoon"] = true,
+	["orgrimmar"] = true,
+	["thunderbluff"] = true,
+	["stormwind"] = true,
+	["exodar"] = true,
+	["ironforge"] = true,
+	["dalaran"] = true,
+	["theramore"] = true,
+	["darnassus"] = true,
+}

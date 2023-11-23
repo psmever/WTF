@@ -1,0 +1,6 @@
+Bagnon_GuildBank: enabled
+Bagnon_Config: enabled
+Blizzard_CompactRaidFrames: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Chinchilla: disabled

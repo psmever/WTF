@@ -1,0 +1,30 @@
+
+XLootADB = {
+	["namespaces"] = {
+		["Group"] = {
+			["profiles"] = {
+				["Default"] = {
+					["alert_anchor"] = {
+						["visible"] = false,
+					},
+				},
+			},
+		},
+		["Frame"] = {
+		},
+		["Monitor"] = {
+		},
+		["Master"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Detto - Whitemane"] = "Default",
+		["Pibanki - Whitemane"] = "Default",
+		["Pism - Whitemane"] = "Default",
+		["Mstone - Whitemane"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,17 @@
+Blizzard_CompactRaidFrames: enabled
+Chinchilla: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XLoot_Options: disabled
+Bagnon_Config: enabled
+Bagnon_GuildBank: enabled
+Bagnon_VoidStorage: enabled
+Bagnon: enabled
+BagBrother: enabled
+Bistooltip: disabled
+XLoot: disabled
+XLoot_Group: disabled
+XLoot_Frame: disabled
+XLoot_Monitor: disabled
+XLoot_Master: disabled
+ccc: disabled

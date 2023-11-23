@@ -1,0 +1,37 @@
+VER 3 0000000000000002 "물빵" "134400"
+#showtooltip
+/use 창조된 빙하수
+/use 창조된 크루아상
+END
+VER 3 0000000000000001 "법봉" "134400"
+#showtooltip
+/castsequence 마법봉 발사
+END
+VER 3 0000000000000005 "선택" "135907"
+/대상 [noharm][dead]테라모어 첩보원
+END
+VER 3 0000000000000003 "장신구1" "134400"
+#showtooltip
+/stopcasting
+/use 13
+END
+VER 3 0000000000000004 "정신구2" "134400"
+#showtooltip
+/stopcasting
+/use 14
+END
+VER 3 0000000000000007 "펫공격" "135862"
+#showtooltip
+/dismount
+/petattack
+END
+VER 3 0000000000000008 "펫따르기" "135862"
+#showtooltip
+/dismount
+/petfollow
+END
+VER 3 0000000000000009 "펫중지" "135862"
+#showtooltip
+/dismount
+/petstay
+END
